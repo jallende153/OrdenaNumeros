@@ -10,6 +10,7 @@ namespace OrdenarNumeros
     {
         static void Main(string[] args)
         {
+
             int num1, num2, num3;
             Console.Write("Ingrese el Primer Número: ");
             num1 = Convert.ToInt32(Console.ReadLine());
